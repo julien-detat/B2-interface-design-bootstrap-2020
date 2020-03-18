@@ -1,0 +1,15 @@
+<svg id="_01-icons_device_tablet" data-name="01-icons/device/tablet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Page_1" data-name="Page 1" d="M27.789,40H4.21A4.193,4.193,0,0,1,0,35.833V4.167A4.194,4.194,0,0,1,4.21,0H27.789A4.194,4.194,0,0,1,32,4.167V35.833A4.194,4.194,0,0,1,27.789,40ZM16,33.333a2.5,2.5,0,1,0,2.526,2.5A2.516,2.516,0,0,0,16,33.333ZM3.369,5V31.667H28.632V5Z" transform="translate(4)" fill="rgba(33,33,33,0.87)"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_4" data-name="Groupe 4">
+    <path id="Page_1-2" data-name="Page 1" d="M27.789,40H4.21A4.193,4.193,0,0,1,0,35.833V4.167A4.194,4.194,0,0,1,4.21,0H27.789A4.194,4.194,0,0,1,32,4.167V35.833A4.194,4.194,0,0,1,27.789,40ZM16,33.333a2.5,2.5,0,1,0,2.526,2.5A2.516,2.516,0,0,0,16,33.333ZM3.369,5V31.667H28.632V5Z" transform="translate(4)" fill="rgba(33,33,33,0.87)"/>
+    <g id="Groupe_de_masques_4" data-name="Groupe de masques 4" clip-path="url(#clip-path)">
+      <g id="_00-color_neutral-color_dark" data-name="00-color/neutral-color/dark">
+        <rect id="Background" width="40" height="40" fill="#212121"/>
+      </g>
+    </g>
+  </g>
+</svg>

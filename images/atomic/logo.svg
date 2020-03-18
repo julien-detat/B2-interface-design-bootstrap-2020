@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="42" viewBox="0 0 300 42">
+  <g id="logo" transform="translate(0 2)">
+    <g id="Group_9" data-name="Group 9" transform="translate(2 2)">
+      <path id="Rectangle_7" data-name="Rectangle 7" d="M0,14.717V.68A.68.68,0,0,1,.68,0H29.32A.68.68,0,0,1,30,.68V29.317a.68.68,0,0,1-.683.68l-14.038-.071a.68.68,0,0,1-.476-.2" transform="translate(30 30) rotate(180)" fill="none" stroke="#673ab7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Rectangle_7-2" data-name="Rectangle 7" d="M11.991,10.206a.668.668,0,0,1-.492-.217L7.732,5.138,3.741,0H12a.68.68,0,0,1,.679.68V9.525A.677.677,0,0,1,11.991,10.206Z" transform="translate(17.323)" fill="none" stroke="#ffc107" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectangle_7-3" data-name="Rectangle 7" width="15" height="15" rx="0.68" transform="translate(0 15)" fill="none" stroke="#673ab7" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <text id="ECV_Device_Lab" data-name="ECV | Device Lab" transform="translate(45 -2)" fill="rgba(74,74,74,0.87)" font-size="29.032" font-family="SourceSansPro-Light, Source Sans Pro" font-weight="300"><tspan x="0" y="30">ECV </tspan><tspan y="30" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="400">| </tspan><tspan y="30" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="600">Device Lab</tspan></text>
+  </g>
+</svg>
