@@ -1,0 +1,15 @@
+<svg id="_01-icons_device_phone" data-name="01-icons/device/phone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Page_1" data-name="Page 1" d="M19.384,40H4.615A4.586,4.586,0,0,1,0,35.455V4.546A4.586,4.586,0,0,1,4.615,0H19.384A4.587,4.587,0,0,1,24,4.546V35.455A4.586,4.586,0,0,1,19.384,40ZM12,32.728a2.727,2.727,0,1,0,2.769,2.727A2.752,2.752,0,0,0,12,32.728ZM3.693,5.455V30.909H20.308V5.455Z" transform="translate(8)" fill="rgba(33,33,33,0.87)"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_3" data-name="Groupe 3">
+    <path id="Page_1-2" data-name="Page 1" d="M19.384,40H4.615A4.586,4.586,0,0,1,0,35.455V4.546A4.586,4.586,0,0,1,4.615,0H19.384A4.587,4.587,0,0,1,24,4.546V35.455A4.586,4.586,0,0,1,19.384,40ZM12,32.728a2.727,2.727,0,1,0,2.769,2.727A2.752,2.752,0,0,0,12,32.728ZM3.693,5.455V30.909H20.308V5.455Z" transform="translate(8)" fill="rgba(33,33,33,0.87)"/>
+    <g id="Groupe_de_masques_3" data-name="Groupe de masques 3" clip-path="url(#clip-path)">
+      <g id="_00-color_neutral-color_dark" data-name="00-color/neutral-color/dark">
+        <rect id="Background" width="40" height="40" fill="#212121"/>
+      </g>
+    </g>
+  </g>
+</svg>
