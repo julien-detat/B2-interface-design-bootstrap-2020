@@ -44,17 +44,24 @@
 
 
 
-#yellow-circle {
-  height: 50px;
-  text-align: center;
-  width: 50px;
-  border-radius: 25px;
-  background-color: #FFC107;
-  margin :auto;
-  padding: 0;
+.circle-w {
+    background-color: #ffda6b;
 }
 
-
+.circle, .circle-w {
+    display: inline-flex;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: #FFC107;
+    margin-right: 25px;
+    padding: 0;
+    color: white;
+    font-weight: 600;
+}
 
 
 .fleche {
@@ -77,6 +84,12 @@
   }
 }
 
+
+.circle-w img, .circle img {
+	width: 60%;
+	fill: #FFFFFF;
+	stroke: #FFFFFF;
+}
 
 
 </style>
@@ -245,25 +258,19 @@
 <div class="card-body">
   	<div class="icones">
 
-  	<div class="col-sm-12">
-  		<div id="yellow-circle" class="btn-primary"><img src="images/atomic/01-icons-device-laptop.svg"></div>
-  	</div>
+  	<a href="#"><div class="circle-w btn-primary btn-all">All</div></a>
 
-  	<div class="col-sm-12">
-  		<div id="yellow-circle" class="btn-primary"><img src="images/atomic/01-icons-device-tablet.svg"></div>
-  	</div>
+  	<a href="laptop"><div class="circle-w btn-primary"><img src="images/atomic/01-icons-device-laptop.svg" fill="#FFFFFF">
+      	<br></div></a>
 
-  	<div class="col-sm-12">
-  		<div id="yellow-circle" class="btn-primary"><img src="images/atomic/01-icons-device-phone.svg"></div>
-  	</div>
+  	<a href="tablet"><div class="circle btn-primary"><img src="images/atomic/01-icons-device-tablet.svg"></div></a>
 
-  	<div class="col-sm-12">
-  		<div id="yellow-circle" class="btn-primary"><img src="images/atomic/01-icons-os-ios.svg"></div>
-  	</div>
+  	<a href="phone"><div class="circle btn-primary"><img src="images/atomic/01-icons-device-phone.svg"></div></a>
 
-  	<div class="col-sm-12">
-  		<div id="yellow-circle" class="btn-primary"><img src="images/atomic/01-icons-os-android.svg"></div>
-  	</div>
+  	<a href="ios"><div class="circle btn-primary"><img src="images/atomic/01-icons-os-ios.svg"></div></a>
+
+  	<a href="android"><div class="circle btn-primary"><img src="images/atomic/01-icons-os-android.svg"></div></a>
+
 	</div>
 </div>
 		    <table class="table">
